@@ -1,9 +1,7 @@
+import { Button } from "@material-tailwind/react";
+
 const App = () => {
-  return (
-    <>
-      <h1>Vite + React</h1>
-    </>
-  );
+  return <Button>Button</Button>;
 };
 
 export default App;
