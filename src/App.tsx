@@ -1,7 +1,7 @@
-import HomeScreen from "./screens/HomeScreen";
+import { Button } from "@material-tailwind/react";
 
 const App = () => {
-  return <HomeScreen />;
+  return <Button>Button</Button>;
 };
 
 export default App;
